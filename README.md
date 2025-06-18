@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Besufkad Belay – AI & Blockchain Developer | 4+ Years of Experience in Innovative Solutions  
+# 👋 Hi, I'm Besufkad – AI & Blockchain Developer | 4+ Years of Experience in Innovative Solutions  
 
 🔗 **Bridging AI and Blockchain Technologies for the Future**  
 I’m passionate about building **intelligent, decentralized applications** to solve complex challenges. With over three years of experience, I specialize in **AI model development** and **blockchain-based smart contracts**, pushing the boundaries of both fields to create impactful solutions.
